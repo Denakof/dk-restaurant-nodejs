@@ -11,3 +11,5 @@ var credentials ={
 const pool = new Pool(credentials);
 module.exports=pool
  
+
+console.log(db);
